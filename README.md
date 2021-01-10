@@ -1,2 +1,2 @@
 # startup
-Learning to code
+https://tadasgrigonis.github.io/startup/.
